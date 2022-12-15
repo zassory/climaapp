@@ -45,7 +45,7 @@ export const Formulario = () => {
                 >
                     <option value=""> Seleccione un pais</option>
                     <option value="US">Estados Unidos</option>
-                    <option value="CH">Chile</option>
+                    <option value="CL">Chile</option>
                     <option value="MX">Mexico</option>
                     <option value="AR">Argentina</option>
                     <option value="CO">Colombia</option>
